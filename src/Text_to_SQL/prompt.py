@@ -21,6 +21,16 @@ prompt = [
     
         SELECT COUNT(*) from STUDENT where DEPARTMENT="CSE";
         
+    Again for example. If the text says, "Give me the information of students with the highest CGPA?", the SQL command for that 
+    would be something like this:
+    
+        SELECT * from STUDENT ORDER BY CGPA DESC LIMIT 0,1;
+        
+    One more example. If the text says, "Give me the information of student with the least CGPA from section A?", the SQL command for that 
+    would be something like this:
+    
+        SELECT * from STUDENT where SECTION="A" ORDER BY CGPA ASC LIMIT 0,1;
+        
     Take one more example. If the text says, "Give me the information of students whose CGPA is 9.00 or above?", the SQL command for that 
     would be something like this:
     
