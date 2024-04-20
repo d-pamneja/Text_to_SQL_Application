@@ -174,6 +174,6 @@ Project Link: [https://github.com/d-pamneja/Text_to_SQL_Application](https://git
 [langchain]: https://img.shields.io/badge/Langchain-FF2D20?style=for-the-badge&logo=langchain&logoColor=white
 [langchain-url]: https://langchain.com
 [ google-gemini] : https://img.shields.io/badge/Google_Gemini-FF2D20?style=for-the-badge&logo=google&logoColor=white
-[google-gemini-url]: https://www.google.com
+[ google-gemini-url]: https://gemini.google.com/app/bdfb4a3a241df0d4
 [sqlite]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 [sqlite-url]: https://www.sqlite.org/index.html
