@@ -139,7 +139,7 @@ Project Link: [https://github.com/d-pamneja/Text_to_SQL_Application](https://git
 [contributors-shield]: https://img.shields.io/github/contributors/d-pamneja/Text_to_SQL_Application.svg?style=for-the-badge
 [contributors-url]: https://github.com/d-pamneja/Text_to_SQL_Application/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/d-pamneja/Text_to_SQL_Application.svg?style=for-the-badge
-[forks-url]: https://github.com/d-pamneja/d-pamneja/Text_to_SQL_Application/network/members
+[forks-url]: https://github.com/d-pamneja/Text_to_SQL_Application/network/members
 [stars-shield]: https://img.shields.io/github/stars/d-pamneja/Text_to_SQL_Application.svg?style=for-the-badge
 [stars-url]: https://github.com/d-pamneja/Text_to_SQL_Application/stargazers
 [issues-shield]: https://img.shields.io/github/issues/d-pamneja/Text_to_SQL_Application.svg?style=for-the-badge
