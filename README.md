@@ -145,7 +145,7 @@ Project Link: [https://github.com/d-pamneja/Text_to_SQL_Application](https://git
 [issues-shield]: https://img.shields.io/github/issues/d-pamneja/Text_to_SQL_Application.svg?style=for-the-badge
 [issues-url]: https://github.com/d-pamneja/Text_to_SQL_Application/issues
 [license-shield]: https://img.shields.io/github/license/d-pamneja/Text_to_SQL_Application.svg?style=for-the-badge
-[license-url]: https://github.com/d-pamneja/Text_to_SQL_Application/blob/master/LICENSE.txt
+[license-url]: LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dhruv-pamneja-3b8432187/
 [product-screenshot]: static/screenshot.png
