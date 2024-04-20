@@ -5,7 +5,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![GPU License][license-shield]][license-url]
+<!-- [![GPU License][license-shield]][license-url] -->
 
 
 
