@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/d-pamneja/Text_to_SQL_Application">
-    <img src="static/logo.jpeg" alt="Logo" width="500" height="300">
+    <img src="static/logo.jpg" alt="Logo" width="500" height="300">
   </a>
 
 <h3 align="center">Text to SQL Generation using Google Gemini</h3>
@@ -173,7 +173,7 @@ Project Link: [https://github.com/d-pamneja/Text_to_SQL_Application](https://git
 [openai-url]: https://openai.com
 [langchain]: https://img.shields.io/badge/Langchain-FF2D20?style=for-the-badge&logo=langchain&logoColor=white
 [langchain-url]: https://langchain.com
-[google-gemini] : https://img.shields.io/badge/Google_Gemini-FF2D20?style=for-the-badge&logo=google&logoColor=white
+[ google-gemini] : https://img.shields.io/badge/Google_Gemini-FF2D20?style=for-the-badge&logo=google&logoColor=white
 [google-gemini-url]: https://www.google.com
 [sqlite]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 [sqlite-url]: https://www.sqlite.org/index.html
