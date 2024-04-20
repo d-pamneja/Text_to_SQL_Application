@@ -63,12 +63,9 @@ The user can type in their query and hit the database running, allowing this to 
 
 ### Built With
 
-* [![google-gemini][google-gemini]]
-* [!sqlite][sqlite][sqlite-url]
 
-
-* **Google Gemini** [google-gemini][google-gemini-url]
-* **SQLite** (https://www.sqlite.org/)
+* [![google-gemini][google-gemini]][google-gemini-url]
+* [![sqlite][sqlite]][sqlite-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
